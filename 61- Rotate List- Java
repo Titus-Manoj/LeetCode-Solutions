@@ -1,0 +1,71 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution 
+{
+    public ListNode rotateRight(ListNode head, int k) 
+    {
+        ListNode temp = head;
+        ListNode cnt = head;
+        ListNode last = head;
+        int rot=0;
+        int count=0;
+        int length=0;
+        
+        //List run from head to null to get length
+        while(cnt!=null)
+        {
+            count++;
+            cnt=cnt.next;
+        }
+        
+        //To avoid null lists(as those returned unaltered as no rotation to do)
+        if(count>0)
+        {
+            //To get the last element
+            while(last.next!=null)
+            {
+                last=last.next;
+            }
+            length=count;
+            
+            //To reduce the number of computations, finding optimal rotation count that gives same result as with k
+            if(k>length)
+            {
+                rot=k%length;
+            }
+            else if(k<length)
+            {
+                rot=k;
+            }
+            else
+                rot=0;
+            
+            if(rot>0)
+            {
+                //last made to point to head for continuity
+                last.next=head;
+                for(int i=1; i<=length && temp!=null; i++)
+                {
+                    if(i==(length-rot))
+                    {
+                        //Find element previous to new head and point to null
+                        //Then new head set
+                        cnt=temp.next;
+                        temp.next=null;
+                        head=cnt;
+                    }
+                    temp=temp.next;
+                }
+            }
+        }
+        return head;
+    }
+}
