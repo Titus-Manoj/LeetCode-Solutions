@@ -32,6 +32,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0207-course-schedule](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
@@ -74,4 +75,12 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0039-combination-sum) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
