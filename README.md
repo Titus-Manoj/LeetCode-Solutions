@@ -60,6 +60,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0198-house-robber](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0735-asteroid-collision](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0735-asteroid-collision](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
