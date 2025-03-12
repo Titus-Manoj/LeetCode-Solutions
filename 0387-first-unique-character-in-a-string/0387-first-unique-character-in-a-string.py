@@ -1,13 +1,15 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
+        d = {}
         index = -1
+        for i in s:
+            if i in d:
+                d[i] += 1
+            else:
+                d[i] = 1
+        
         for i in range(len(s)):
-            flg = 0
-            for j in range(len(s)):
-                if i!=j and s[i]==s[j]:
-                    flg = 1
-                    break
-            if flg == 0:
+            if d[s[i]] == 1:
                 index = i
                 break
         return index
