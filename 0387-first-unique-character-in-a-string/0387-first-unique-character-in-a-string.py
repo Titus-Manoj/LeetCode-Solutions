@@ -1,16 +1,14 @@
 class Solution:
-    def firstUniqChar(self, s):
-         # Create a list to store the frequency of each character
-        frequency = [0] * 26  # Assuming only lowercase letters
-
-        # Step 1: Count the frequency of each character
-        for char in s:
-            frequency[ord(char) - ord('a')] += 1  # Map 'a' to 0, 'b' to 1, ..., 'z' to 25
-
-        # Step 2: Find the first character with a frequency of 1
-        for index, char in enumerate(s):
-            if frequency[ord(char) - ord('a')] == 1:
-                return index  # Return the index of the first unique character
-
-        # Step 3: If no unique character is found, return -1
-        return -1
+    def firstUniqChar(self, s: str) -> int:
+        key = 'abcdefghijklmnopqrstuvwxyz'  # Pre-defined order of characters
+        idx = 10**5  # Set an initial large index
+        
+        # Iterate through each character in the pre-defined order
+        for i in key:
+            x = s.find(i)  # Find the first occurrence of the character
+            # Check if the character is unique (not found after the first occurrence)
+            if x != -1 and x == s.rfind(i):
+                idx = min(idx, x)  # Update the minimum index
+        
+        # Return the minimum index if found, otherwise return -1
+        return idx if idx != 10**5 else -1
