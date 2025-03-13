@@ -22,6 +22,7 @@
 | [0242-valid-anagram](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1319-unique-number-of-occurrences](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0198-house-robber](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0735-asteroid-collision](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [1319-unique-number-of-occurrences](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Divide and Conquer
 |  |
