@@ -32,6 +32,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Depth-First Search
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0088-merge-sorted-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -160,4 +162,8 @@
 |  |
 | ------- |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
