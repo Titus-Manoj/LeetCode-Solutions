@@ -68,6 +68,7 @@
 | [0039-combination-sum](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -134,6 +135,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0198-house-robber) |
 ## Math
 |  |
