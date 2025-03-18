@@ -179,4 +179,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
