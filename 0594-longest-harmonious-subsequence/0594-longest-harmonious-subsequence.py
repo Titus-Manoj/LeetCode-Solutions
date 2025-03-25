@@ -1,14 +1,15 @@
 class Solution:
     def findLHS(self, nums: List[int]) -> int:
-        d = {}
-        for i in nums:
-            if i not in d:
-                d[i] = 1
+        nums.sort()
+        l, r = 0, 1
+        length = 0
+        while r < len(nums):
+            diff = nums[r] - nums[l]
+            if diff == 1:
+                length = max(length, r - l + 1)
+            if diff <= 1:
+                r += 1
             else:
-                d[i] += 1
-        ans = 0
-        for i in d:
-            if i+1 in d:
-                ans = max(ans, d[i] + d[i+1])
+                l += 1
         
-        return ans
+        return length
