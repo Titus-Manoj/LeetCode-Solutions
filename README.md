@@ -24,6 +24,7 @@
 | [0242-valid-anagram](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1319-unique-number-of-occurrences](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 ## String
 |  |
@@ -39,6 +40,7 @@
 | [0169-majority-element](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0228-summary-ranges](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0735-asteroid-collision](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -106,6 +109,7 @@
 | [0169-majority-element](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Quickselect
 |  |
 | ------- |
@@ -211,4 +215,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
