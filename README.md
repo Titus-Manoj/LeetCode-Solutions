@@ -209,6 +209,7 @@
 | [1415-students-and-examinations](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1415-students-and-examinations) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1801-average-time-of-process-per-machine) |
+| [2087-confirmation-rate](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2087-confirmation-rate) |
 ## Prefix Sum
 |  |
 | ------- |
