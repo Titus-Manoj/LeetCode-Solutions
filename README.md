@@ -210,6 +210,7 @@
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
+| [1390-average-selling-price](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1415-students-and-examinations) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1801-average-time-of-process-per-machine) |
