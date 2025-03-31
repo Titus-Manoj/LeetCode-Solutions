@@ -76,6 +76,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -162,6 +163,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
@@ -185,6 +187,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Bit Manipulation
 |  |
