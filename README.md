@@ -100,6 +100,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Divide and Conquer
 |  |
 | ------- |
