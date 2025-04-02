@@ -1,8 +1,8 @@
 class Solution:
     def maximumTripletValue(self, nums: List[int]) -> int:
-        maxx = 0
-        for i in range(len(nums)-2):
-            for j in range(i+1, len(nums)-1):
-                for k in range(j+1, len(nums)):
-                    maxx = max(maxx, (nums[i] - nums[j])*nums[k])
-        return maxx
+        ans, maxdiff, maxelem = 0,0,0
+        for i in nums:
+            ans = max(ans, maxdiff*i)
+            maxdiff = max(maxdiff, maxelem - i)
+            maxelem = max(maxelem, i)
+        return ans
