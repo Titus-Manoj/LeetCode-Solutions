@@ -1,16 +1,15 @@
 class Solution:
     def longestPalindrome(self, s: str) -> int:
-        sett = set()
-        count = 0
+        x = Counter(s)
+        total = 0
+        checkodd = False
 
-        for i in s:
-            if i in sett:
-                sett.remove(i)
-                count += 2
+        for i in x.values():
+            if i % 2 == 0:
+                total += i
+            elif not checkodd:
+                total += i
+                checkodd = True
             else:
-                sett.add(i)
-        
-        if sett:
-            count += 1
-        
-        return count
+                total += i-1
+        return total
