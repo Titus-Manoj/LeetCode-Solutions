@@ -92,6 +92,7 @@
 | [0228-summary-ranges](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -234,6 +235,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Linked List
@@ -255,4 +257,8 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
