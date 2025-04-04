@@ -28,6 +28,7 @@
 | [0409-longest-palindrome](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 ## String
 |  |
@@ -61,6 +62,7 @@
 | [0207-course-schedule](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [0112-path-sum](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Graph
 |  |
 | ------- |
@@ -148,6 +151,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -160,6 +164,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Stack
 |  |
 | ------- |
