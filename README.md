@@ -180,6 +180,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -269,4 +270,12 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
