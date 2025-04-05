@@ -109,6 +109,7 @@
 | [0735-asteroid-collision](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | [0048-rotate-image](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -201,6 +204,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
@@ -221,6 +225,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Binary Search
 |  |
 | ------- |
@@ -289,4 +294,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
