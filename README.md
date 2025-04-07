@@ -21,6 +21,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -98,6 +99,7 @@
 | [0136-single-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0219-contains-duplicate-ii](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -278,6 +280,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Greedy
