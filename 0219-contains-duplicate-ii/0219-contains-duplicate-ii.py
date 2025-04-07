@@ -1,12 +1,19 @@
-class Solution:
-    def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
-        d = {}
-        for i in range(len(nums)):
-            if nums[i] not in d:
-                d[nums[i]] = i
-            else:
-                if abs(d[nums[i]] - i)<=k:
-                    return True
-                else:
-                    d[nums[i]] = i
+class Solution(object):
+    def containsNearbyDuplicate(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: bool
+        """
+        window = set()
+        left = 0
+
+        for right in range(len(nums)):
+            if right - left > k:
+                window.remove(nums[left])
+                left += 1
+            if nums[right] in window:
+                return True
+            window.add(nums[right])
+        
         return False
