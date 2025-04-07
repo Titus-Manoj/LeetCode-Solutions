@@ -1,12 +1,8 @@
 class Solution:
     def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
-        # Create hset for storing previous of k elements...
-        hset = {}
-        # Traverse for all elements of the given array in a for loop...
-        for idx in range(len(nums)):
-            # If duplicate element is present at distance less than equal to k, return true...
-            if nums[idx] in hset and abs(idx - hset[nums[idx]]) <= k:
+        mpp = {}
+        for i, num in enumerate(nums):
+            if num in mpp and i - mpp[num] <= k:
                 return True
-            hset[nums[idx]] = idx
-        # If no duplicate element is found then return false...
+            mpp[num] = i
         return False
