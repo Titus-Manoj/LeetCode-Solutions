@@ -32,6 +32,7 @@
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Divide and Conquer
 |  |
 | ------- |
