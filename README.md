@@ -37,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
@@ -248,6 +249,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0647-palindromic-substrings](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 ## Union Find
@@ -311,4 +313,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
