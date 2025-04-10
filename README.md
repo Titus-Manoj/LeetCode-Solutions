@@ -46,6 +46,7 @@
 | [0647-palindromic-substrings](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0837-most-common-word](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2325-number-of-ways-to-select-buildings) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sorting
 |  |
@@ -203,6 +204,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2325-number-of-ways-to-select-buildings) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Math
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 | [0292-nim-game](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
