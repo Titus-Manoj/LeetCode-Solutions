@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -266,6 +268,7 @@
 | [0027-remove-element](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0647-palindromic-substrings](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 ## Union Find
 |  |
@@ -298,6 +301,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -339,4 +343,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
