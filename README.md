@@ -222,6 +222,7 @@
 | [0292-nim-game](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -306,6 +307,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [2050-count-good-numbers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 ## Sliding Window
 |  |
 | ------- |
