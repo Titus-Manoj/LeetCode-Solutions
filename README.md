@@ -118,6 +118,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0506-relative-ranks) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0506-relative-ranks](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
