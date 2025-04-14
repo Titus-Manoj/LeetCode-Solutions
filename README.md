@@ -126,6 +126,7 @@
 | [0837-most-common-word](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1656-count-good-triplets](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -335,6 +336,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 ## String Matching
