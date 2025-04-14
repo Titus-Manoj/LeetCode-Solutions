@@ -1,31 +1,23 @@
 import heapq
+from typing import List
+
 class Solution:
     def findRelativeRanks(self, score: List[int]) -> List[str]:
-        hp = [-x for x in score]
-        heapq.heapify(hp)
-        d = {}
         n = len(score)
-        ans = [""]*n
+        ans = [""] * n
         pos = ["Gold Medal", "Silver Medal", "Bronze Medal"]
         posn = 1
 
-        
-        
-        for i in range(n):
-            if score[i] not in d:
-                d[score[i]] = i
-        
+        # Build max-heap with (score, index) pairs (negated score to simulate max-heap)
+        hp = [(-score[i], i) for i in range(n)]
+        heapq.heapify(hp)
+
         while hp:
-            temp = -heapq.heappop(hp)
-            index = d[temp]
-            if posn == 1:
-                ans[index] = pos[0]
-            elif posn == 2:
-                ans[index] = pos[1]
-            elif posn == 3:
-                ans[index] = pos[2]
+            _, index = heapq.heappop(hp)
+            if posn <= 3:
+                ans[index] = pos[posn - 1]
             else:
                 ans[index] = str(posn)
             posn += 1
-        
+
         return ans
