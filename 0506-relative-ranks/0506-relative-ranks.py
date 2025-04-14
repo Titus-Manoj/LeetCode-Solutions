@@ -9,18 +9,7 @@ class Solution:
         pos = ["Gold Medal", "Silver Medal", "Bronze Medal"]
         posn = 1
 
-        if n == 1:
-            ans[0] = "Gold Medal"
-            return ans
-        if n == 2:
-            maxx = max(score[0], score[1])
-            if score[0] == maxx:
-                ans[0] = "Gold Medal"
-                ans[1] = "Silver Medal"
-            else:
-                ans[1] = "Gold Medal"
-                ans[0] = "Silver Medal"
-            return ans
+        
         
         for i in range(n):
             if score[i] not in d:
