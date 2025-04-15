@@ -64,6 +64,7 @@
 | [0506-relative-ranks](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [1184-car-pooling](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1184-car-pooling) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0837-most-common-word](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
+| [1184-car-pooling](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1319-unique-number-of-occurrences](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1656-count-good-triplets](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -155,6 +157,7 @@
 | [0506-relative-ranks](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1127-last-stone-weight](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
+| [1184-car-pooling](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1184-car-pooling) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -240,6 +243,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [1184-car-pooling](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
@@ -309,6 +313,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1184-car-pooling](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Linked List
 |  |
