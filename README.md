@@ -128,6 +128,7 @@
 | [0735-asteroid-collision](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0837-most-common-word](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1127-last-stone-weight](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1656-count-good-triplets](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -153,6 +154,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0506-relative-ranks](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [1127-last-stone-weight](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
