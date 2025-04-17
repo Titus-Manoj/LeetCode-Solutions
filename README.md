@@ -35,6 +35,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3548-find-the-count-of-good-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
@@ -243,6 +244,7 @@
 | [2050-count-good-numbers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -255,6 +257,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3548-find-the-count-of-good-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
@@ -364,6 +367,7 @@
 | [1656-count-good-triplets](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## String Matching
 |  |
 | ------- |
