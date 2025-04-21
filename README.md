@@ -141,6 +141,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1656-count-good-triplets](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2249-count-the-hidden-sequences](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -337,6 +338,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1184-car-pooling](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1184-car-pooling) |
+| [2249-count-the-hidden-sequences](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Linked List
 |  |
