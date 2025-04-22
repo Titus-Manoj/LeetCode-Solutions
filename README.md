@@ -240,6 +240,7 @@
 | [0647-palindromic-substrings](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [2262-solving-questions-with-brainpower](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Math
 |  |
@@ -252,6 +253,7 @@
 | [0797-rabbits-in-forest](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
@@ -267,11 +269,13 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Queue
 |  |
