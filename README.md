@@ -38,6 +38,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -151,6 +152,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -349,6 +351,7 @@
 | [1184-car-pooling](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [2249-count-the-hidden-sequences](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2915-count-of-interesting-subarrays](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 ## Linked List
 |  |
 | ------- |
