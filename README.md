@@ -149,6 +149,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -286,6 +287,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Matrix
 |  |
 | ------- |
@@ -370,6 +372,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Greedy
@@ -427,4 +430,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
