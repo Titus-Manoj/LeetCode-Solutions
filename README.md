@@ -149,6 +149,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -307,6 +308,7 @@
 | [0268-missing-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Two Pointers
 |  |
@@ -354,6 +356,7 @@
 | [1184-car-pooling](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [2249-count-the-hidden-sequences](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 ## Linked List
 |  |
@@ -373,6 +376,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
