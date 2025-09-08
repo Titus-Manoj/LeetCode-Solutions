@@ -18,6 +18,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -122,6 +123,7 @@
 | [0048-rotate-image](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -314,6 +316,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Bit Manipulation
