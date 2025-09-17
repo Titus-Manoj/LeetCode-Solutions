@@ -137,6 +137,7 @@
 | [0228-summary-ranges](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -327,11 +328,13 @@
 | ------- |
 | [0136-single-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -345,6 +348,7 @@
 | [0031-next-permutation](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0287-find-the-duplicate-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Union Find
