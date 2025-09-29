@@ -18,6 +18,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -118,6 +119,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0039-combination-sum) |
