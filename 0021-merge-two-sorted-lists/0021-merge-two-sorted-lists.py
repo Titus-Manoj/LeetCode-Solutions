@@ -1,33 +1,26 @@
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+
 class Solution:
-    def mergeTwoLists(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        k = ListNode()
-        ans = k
-        while(l1 != None and l2 != None):
-            if l1.val == l2.val:
-                k.next = ListNode(l1.val)
-                k = k.next
-                k.next = ListNode(l2.val)
-                k = k.next
-                l1 = l1.next
-                l2 = l2.next
-            elif l1.val > l2.val:
-                k.next = ListNode(l2.val)
-                k = k.next
-                l2 = l2.next
+    def mergeTwoLists(self, list1: ListNode, list2: ListNode) -> ListNode:
+        # Create a dummy node to simplify merging
+        dummy = ListNode()
+        tail = dummy
+
+        # Traverse both lists
+        while list1 and list2:
+            if list1.val < list2.val:
+                tail.next = list1
+                list1 = list1.next
             else:
-                k.next = ListNode(l1.val)
-                k = k.next
-                l1 = l1.next
-        
-        if l1 != None:
-            k.next = l1
-        
-        if l2 != None:
-            k.next = l2
-        
-        return ans.next
+                tail.next = list2
+                list2 = list2.next
+            tail = tail.next  # Move the tail pointer forward
+
+        # Attach the remaining nodes (if any)
+        tail.next = list1 if list1 else list2
+
+        return dummy.next
