@@ -283,6 +283,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
@@ -410,6 +411,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0148-sort-list) |
@@ -418,6 +420,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
