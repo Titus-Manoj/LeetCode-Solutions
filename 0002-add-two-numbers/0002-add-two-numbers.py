@@ -1,36 +1,24 @@
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        t = ListNode()
-        tm = t
-        carry = 0
-        while(l1 and l2):
-            summ = (l1.val + l2.val + carry)
-            t.next = ListNode(summ % 10)
-            carry = summ // 10
-            l1 = l1.next
-            l2 = l2.next
-            t = t.next
         
-        while l1:
-            summ = (l1.val + carry)
-            t.next = ListNode(summ % 10)
-            carry = summ // 10
-            l1 = l1.next
-            t = t.next
+        dummy = ListNode()
+        res = dummy
 
-        while l2:
-            summ = (l2.val + carry)
-            t.next = ListNode(summ % 10)
-            carry = summ // 10
-            l2 = l2.next
-            t = t.next
+        total = carry = 0
+
+        while l1 or l2 or carry:
+            total = carry
+
+            if l1:
+                total += l1.val
+                l1 = l1.next
+            if l2:
+                total += l2.val
+                l2 = l2.next
+            
+            num = total % 10
+            carry = total // 10
+            dummy.next = ListNode(num)
+            dummy = dummy.next
         
-        if carry != 0:
-            t.next = ListNode(carry)
-        
-        return tm.next
+        return res.next
