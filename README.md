@@ -157,6 +157,7 @@
 | [0692-top-k-frequent-words](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0837-most-common-word](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0837-most-common-word) |
 | [1036-rotting-oranges](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -269,6 +270,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -525,4 +527,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
