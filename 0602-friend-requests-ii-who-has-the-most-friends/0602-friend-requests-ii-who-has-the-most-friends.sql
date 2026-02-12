@@ -1,12 +1,10 @@
 # Write your MySQL query statement below
-with a as
+Select id, COUNT(id) as num
+FROM 
 (
     select requester_id id from RequestAccepted
     UNION ALL
     select accepter_id id from RequestAccepted
-)
-
-Select id, COUNT(id) as num
-FROM a
+) a
 Group by id
 Order By num DESC Limit 1
