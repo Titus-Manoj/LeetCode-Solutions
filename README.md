@@ -146,6 +146,7 @@
 | [0238-product-of-array-except-self](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0322-coin-change) |
@@ -286,6 +287,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -361,6 +363,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Titus-Manoj/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
