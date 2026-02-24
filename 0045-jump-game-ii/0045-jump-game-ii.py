@@ -12,3 +12,4 @@ class Solution:
             res += 1
 
         return res
+#Solved in dp first, then watched video for greedy.. So figure dp out for yourself!!
